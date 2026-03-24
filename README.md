@@ -1,5 +1,7 @@
 # 🚀 Project Pegasus: Performance Dashboard
 
+**Live Demo:** (https://lamnguyen.ca/projectPegasus/index.html)
+
 A real-time telemetry interface built to show how web 
 applications can handle fast-moving data with smooth, 
 high-performance visuals. Developed as a technical 
