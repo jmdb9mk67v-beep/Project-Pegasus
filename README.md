@@ -1,3 +1,5 @@
+![Visitors](https://komarev.com/ghpvc/?username=jmdb9mk67v-beep&repo=Project-Pegasus&color=0a0a0a&style=flat-square&label=VISITORS)
+
 # 🚀 Project Pegasus: Performance Dashboard
 
 **Live Demo:** (https://lamnguyen.ca/projectPegasus/index.html)
